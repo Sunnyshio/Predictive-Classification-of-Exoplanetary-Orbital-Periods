@@ -1,0 +1,5 @@
+from pd4ml import Spinodal #type:ignore
+import pd4ml#type:ignore
+
+for dataset in pd4ml.Dataset.datasets_register:
+    print(dataset.name)
