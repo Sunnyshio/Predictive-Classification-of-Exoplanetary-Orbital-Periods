@@ -7,5 +7,7 @@
 * Data exploration
 * Data preprocessing
 * Data modeling
+* Model assessment
+* Data augmentation(??)
 
 
