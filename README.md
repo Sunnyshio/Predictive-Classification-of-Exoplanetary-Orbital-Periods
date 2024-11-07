@@ -1,6 +1,6 @@
 # Predictive-Classification-of-Exoplanetary-Orbital-Periods
 
-`Note: This is an ongoing project. Please do not use this as a resource as the structure of this project and the model choice is wrong. Currently, the dataset did not pass the model's assumptions, and might still need transformation. This does not have a full documentation as of now as it is not yet resolved.`
+This project focuses on the predictive classification of exoplanetary orbital periods. By analyzing data collected from the Kepler Telescope, the model aims to accurately classify exoplanets based on their orbital periods into distinct categories—short, medium, or long periods. Orbital period classification is essential for understanding the unique dynamics of exoplanetary systems and can offer insights into their formation, stability, and potential habitability.
 
 ### Table of contents
 * Libraries used
